@@ -1,6 +1,16 @@
-# My Electronics Blog
+# copperminds
 
-Welcome to my notes.
+Thoughts, notes and learnings from working with electronics and embedded systems.
 
-## First Post
-Hello world — GitHub Pages is working.
+---
+
+## Posts
+
+### Pull-Up Resistors — why they actually matter
+Coming soon.
+
+### Understanding ADC noise in real circuits
+Coming soon.
+
+### Debugging a signal that “looks fine”
+Coming soon.
